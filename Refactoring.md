@@ -9,3 +9,8 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
+
+1. Converted the duplicated code into functions.
+2. Removed all nested unecessary loops to make the code easier to understand.
+3. Grouping the logic for similar conditions so that the code is easier to read and debug.
+4. Added comments wherever necessary.
